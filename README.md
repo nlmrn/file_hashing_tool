@@ -17,8 +17,5 @@ It works by recursively scanning a target directory and using the **SHA-256 cryp
 
 You must have the Rust toolchain installed. If not, install it using `rustup`:
 
-```winget
-install Rustlang.Rustup
-
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf [https://sh.rustup.rs](https://sh.rustup.rs) | sh
